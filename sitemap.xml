@@ -2,13 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://shirts-hapjeong.xyz/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://shirts-hapjeong.xyz/posts/checklist-001-129di4p.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/checklist-001-1aofo5q.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/checklist-001-1ljfrwe.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/checklist-001-u3wxqa.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://shirts-hapjeong.xyz/posts/guide-003.html</loc>
     <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/interview-003-11mbhas.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/interview-003-12y1w6a.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/interview-003-1rlv0tz.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/interview-003-olamjj.html</loc>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25,6 +73,30 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://shirts-hapjeong.xyz/posts/myth-002-1cc6hf5.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/myth-002-1kqy9uj.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/myth-002-1wte3no.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/myth-002-yfk1ip.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://shirts-hapjeong.xyz/posts/review-001.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,8 +109,20 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://shirts-hapjeong.xyz/feed.xml</loc>
+    <loc>https://shirts-hapjeong.xyz/posts/review-005-10mvjug.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/posts/t3link-004-13yraz9.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://shirts-hapjeong.xyz/feed.xml</loc>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
