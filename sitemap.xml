@@ -1,208 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.shirts-hapjeong.xyz/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://blog.shirts-hapjeong.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://blog.shirts-hapjeong.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-001-129di4p.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.shirts-hapjeong.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-001-1aofo5q.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.shirts-hapjeong.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-001-1ljfrwe.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-001-u3wxqa.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-001-uaxxha.html</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/checklist-002-1wi412d.html</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.shirts-hapjeong.xyz/posts/compare-001-1wi412d.html</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0718.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0720.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/compare-001-1wi412d.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0717.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0718.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0719.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0720.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260707-0721.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0375.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0376.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0377.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0378.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0379.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0380.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0381.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0382.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0383.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0384.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0385.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0386.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260721-0387.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0111.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0112.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0113.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0114.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0115.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0116.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0117.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0118.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0119.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0120.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.shirts-hapjeong.xyz/posts/gemini-coverage-20260722-0121.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/guide-003.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-002-h887ww.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-003-11mbhas.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-003-12y1w6a.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-003-1ki03am.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-003-1rlv0tz.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/interview-003-olamjj.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-001-1jst6hb.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-001-8q4rw3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-001-a6lrwk.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-002-1cc6hf5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-002-1kqy9uj.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-002-1wte3no.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-002-yfk1ip.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/myth-002-zog53h.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/review-002.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/review-005-10mvjug.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/t3link-003-uzif6a.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.shirts-hapjeong.xyz/posts/t3link-004-13yraz9.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
