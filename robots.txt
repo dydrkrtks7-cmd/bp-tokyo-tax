@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.shirts-hapjeong.xyz/sitemap.xml
-Sitemap: https://blog.shirts-hapjeong.xyz/sitemap-pages.xml
+Sitemap: https://mangwon-fullsalon-note.nrb-mapo-hub.xyz/sitemap.xml
+Sitemap: https://mangwon-fullsalon-note.nrb-mapo-hub.xyz/sitemap-pages.xml
